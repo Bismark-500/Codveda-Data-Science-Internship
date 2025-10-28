@@ -38,7 +38,3 @@ This repository contains 6 end-to-end data science projects completed during my 
 ## Technologies Used
 - Python, Pandas, NumPy, Scikit-learn, TensorFlow, BeautifulSoup, NLTK
 - Matplotlib, Seaborn, Jupyter Notebook
-
-## Technologies Used
-- Python, Pandas, NumPy, Scikit-learn, TensorFlow, BeautifulSoup, NLTK
-- Matplotlib, Seaborn, Jupyter Notebook
